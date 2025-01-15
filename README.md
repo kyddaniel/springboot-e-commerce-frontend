@@ -25,19 +25,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This is a side project to emulate E-commerce webpage, where you can browse, add, search and purchase any kinds of products.
+***This is a side project to emulate E-commerce webpage, where you can browse, add, modify, search and purchase any kinds of products!***
 
 This project consists of 
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* React application
+* Springboot application as backend to handle the data and comuunications between database
+* Postgres SQL database
 
 
 ### Built With
 
-This frontend side is built by
+This frontend side is built with
 
 * [![React][React.js]][React-url]
 
@@ -85,21 +83,15 @@ To run the application
    http://localhost:5173/
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: src/assets/screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
