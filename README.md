@@ -12,6 +12,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#run-application">Run the application</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -23,13 +24,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]
 
 ***This is a side project to emulate E-commerce webpage, where you can browse, add, modify, search and purchase any kinds of products!***
 
 This project consists of 
 * React application
-* Springboot application as backend to handle the data and comuunications between database
+* [Springboot application](https://github.com/kyddaniel/SpringBoot_E-Commerce) as backend to handle the data and comuunications between database
 * Postgres SQL database
 
 
@@ -69,11 +70,12 @@ To start the frontend side of the application, please follow the below steps
    git remote -v # confirm the changes
    ```
 
-### Run the application
+### Run application
+<a id="run-application"></a>
 
 To run the application
 
-1. Start the backend side of the application
+1. Start the [backend side](https://github.com/kyddaniel/SpringBoot_E-Commerce) of the application
 2. Start the frontend side application with
    ```sh
    npm run dev
