@@ -49,7 +49,7 @@ This frontend side is built with
 
 ### Prerequisites
 
-NPM is required for running the project, please install npm if you haven't installed it yet
+```NPM``` is required for running the project, please install npm if you haven't installed it yet
   ```sh
   npm install npm@latest -g
   ```
