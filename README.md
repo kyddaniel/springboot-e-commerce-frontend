@@ -20,6 +20,7 @@
 </details>
 
 
+# E-commerce Application
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -30,7 +31,7 @@
 
 This project consists of 
 * React application
-* [Springboot application](https://github.com/kyddaniel/SpringBoot_E-Commerce) as backend to handle the data and comuunications between database
+* [Springboot application](https://github.com/kyddaniel/SpringBoot_E-Commerce) as backend to handle the data and communications between database
 * Postgres SQL database
 
 
