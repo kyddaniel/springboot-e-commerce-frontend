@@ -25,9 +25,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+***This is a side project to emulate E-commerce webpage, where you can browse, add, modify, search and purchase any kinds of products!***
+
 ![Product Name Screen Shot][product-screenshot]
 
-***This is a side project to emulate E-commerce webpage, where you can browse, add, modify, search and purchase any kinds of products!***
 
 This project consists of 
 * React application
