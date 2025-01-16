@@ -46,7 +46,7 @@ const Home = ({ selectedCategory }) => {
   }, [data]);
 
   const filteredProducts = selectedCategory
-    ? products.filter((product) => product.category === selectedCategory)
+    ? products.filter((product) => product.category === selectedCategory.toLowerCase())
     : products;
 
   if (isError) {
